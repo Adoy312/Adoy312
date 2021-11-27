@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adoy312
+- 👋 Hi, I’m @Gabriel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on projects
